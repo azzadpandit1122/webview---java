@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recharge App</string>
+    <string name="baseUrl">http://www.app.kiyanchsolutions.com/</string>
+</resources>
